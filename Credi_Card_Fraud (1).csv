@@ -1,0 +1,107 @@
+﻿Card_ID,Limit,Year,Month,Date,Time,Origin,Transaction,Transaction_Type,Amount,Type
+1,500000,2016,Jun,17,5,"Bangalore, India","Bangalore, India",POS,25000,Normal
+1,500000,2016,Oct,4,3,"Bangalore, India","Bangalore, India",POS,300,Normal
+1,500000,2016,Jul,14,1,"Bangalore, India","London, UK",POS,45000,Normal
+1,500000,2016,Dec,14,21,"Bangalore, India","London, UK",POS,670,Normal
+1,500000,2016,Sep,19,17,"Bangalore, India","Bangalore, India",POS,4543,Normal
+1,500000,2016,Nov,23,6,"Bangalore, India","Bangalore, India",POS,11000,Normal
+1,500000,2016,May,28,3,"Bangalore, India","Moscow, Russia",Internet,130000,Fraud
+1,500000,2016,May,4,13,"Bangalore, India","Rabat, Morocco",POS,132,Fraud
+1,500000,2016,Sep,14,7,"Bangalore, India","Bangalore, India",POS,1200,Normal
+1,500000,2016,Dec,19,11,"Bangalore, India","Paris,France",POS,1340,Normal
+2,100000,2016,Jun,2,12,"Hyderabad, India","Hyderabad, India",Internet,1356,Normal
+2,100000,2016,Jan,17,13,"Hyderabad, India","Hyderabad, India",POS,1200,Normal
+2,100000,2016,Apr,23,4,"Hyderabad, India","Mumbai, India",POS,11000,Normal
+2,100000,2016,Dec,26,13,"Hyderabad, India","Hyderabad,India",Internet,50000,Fraud
+2,100000,2016,Sep,9,7,"Hyderabad, India","Hyderabad,India",POS,10543,Normal
+2,100000,2016,Jun,4,9,"Hyderabad, India","Hyderabad,India",POS,140,Normal
+2,100000,2016,Jun,29,17,"Hyderabad, India","Budapest, Hungary",Internet,15000,Fraud
+2,100000,2016,Feb,28,8,"Hyderabad, India","Mumbai, India",POS,994,Normal
+2,100000,2016,Jan,22,19,"Hyderabad, India","Hyderabad,India",Internet,800,Normal
+2,100000,2016,Sep,7,23,"Hyderabad, India","Hyderabad,India",POS,50,Normal
+3,25000,2016,Sep,18,11,"Mumbai, India","Mumbai, India",POS,120,Normal
+3,25000,2016,Mar,15,23,"Mumbai, India","Mumbai, India",POS,140,Fraud
+3,25000,2016,Oct,27,16,"Mumbai, India","Mumbai, India",Internet,1200,Normal
+3,25000,2016,Oct,30,9,"Mumbai, India","Mumbai, India",POS,1987,Normal
+3,25000,2016,May,15,1,"Mumbai, India","Pune, India",Internet,987,Fraud
+3,25000,2016,Apr,18,20,"Mumbai, India","Mumbai, India",POS,4000,Normal
+3,25000,2016,May,11,10,"Mumbai, India","Mumbai, India",POS,1200,Normal
+3,25000,2016,Dec,27,13,"Mumbai, India","Mumbai, India",POS,112,Normal
+3,25000,2016,Nov,20,11,"Mumbai, India","Budapest, Hungary",Internet,12000,Fraud
+3,25000,2016,Mar,12,7,"Mumbai, India","Mumbai, India",POS,4509,Normal
+4,350000,2016,May,4,2,"Mumbai, India","Paris,France",POS,4000,Normal
+4,350000,2016,Mar,30,7,"Mumbai, India","mumbai, India",Internet,543,Normal
+4,350000,2016,Jul,24,7,"Mumbai, India","London, UK",POS,9875,Normal
+4,350000,2016,Nov,25,16,"Mumbai, India","Budapest, Hungary",POS,12567,Normal
+4,350000,2016,Oct,22,18,"Mumbai, India","Budapest, Hungary",Internet,150000,Fraud
+4,350000,2016,Feb,4,3,"Mumbai, India","Budapest, Hungary",POS,907,Normal
+4,350000,2016,Jun,9,5,"Mumbai, India","Mumbai, India",POS,345,Normal
+4,350000,2016,Feb,13,19,"Mumbai, India","Nicosia, Cyprus",Internet,5000,Fraud
+4,350000,2016,Oct,26,4,"Mumbai, India","Bangalore, India",POS,75000,Fraud
+4,350000,2016,May,27,4,"Mumbai, India","Mumbai, India",POS,24000,Normal
+4,350000,2016,Jul,18,16,"Mumbai, India","Mumbai, India",POS,12000,Normal
+5,225000,2016,Feb,25,20,"Delhi, India","Delhi, India",POS,175600,Fraud
+5,225000,2016,Apr,23,16,"Delhi, India","Delhi, India",POS,890,Normal
+5,225000,2016,May,3,22,"Delhi, India","Paris,France",POS,567,Normal
+5,225000,2016,Sep,1,20,"Delhi, India","Delhi, India",POS,8954,Normal
+5,225000,2016,Oct,23,1,"Delhi, India","NewYork, USA",POS,9056,Normal
+5,225000,2016,Oct,21,15,"Delhi, India","Nicosia, Cyprus",Internet,5000,Fraud
+5,225000,2016,Apr,25,8,"Delhi, India","Delhi, India",POS,23467,Normal
+5,225000,2016,Jul,4,10,"Delhi, India","NewYork, USA",POS,1000,Fraud
+5,225000,2016,Mar,30,7,"Delhi, India","Delhi, India",POS,10000,Normal
+5,225000,2016,Dec,9,3,"Delhi, India","Nicosia, Cyprus",Internet,45000,Fraud
+1,500000,2016,Apr,1,8,"Ahmedabad, India","Paris, France",POS,25000,Normal
+6,500000,2016,Dec,5,8,"Ahmedabad, India","Ahmedabad, India",POS,300,Normal
+6,500000,2016,Jun,29,9,"Ahmedabad, India","Ahmedabad, India",POS,45000,Normal
+1,500000,2016,Feb,11,2,"Bangalore, India","Bangalore, India",POS,670,Fraud
+6,500000,2016,Oct,11,8,"Ahmedabad, India","Ahmedabad, India",Internet,4543,Fraud
+6,500000,2016,Apr,11,12,"Ahmedabad, India","Paris, France",POS,11000,Normal
+6,500000,2016,Jul,8,6,"Ahmedabad, India","Paris, France",POS,130000,Normal
+6,500000,2016,Oct,22,24,"Ahmedabad, India","Ahmedabad, India",POS,132,Normal
+1,500000,2016,Oct,5,12,"Bangalore, India","Paris,France",POS,1200,Fraud
+6,500000,2016,Sep,11,22,"Ahmedabad, India","Paris,France",POS,1340,Normal
+7,100000,2016,Nov,19,8,"Hyderabad, India","Hyderabad, India",Internet,1356,Normal
+7,100000,2016,Apr,6,19,"Hyderabad, India","Hyderabad, India",POS,1200,Normal
+7,100000,2016,Aug,7,10,"Hyderabad, India","Hyderabad, India",Internet,11000,Normal
+2,100000,2016,Mar,21,4,"Hyderabad, India","Hyderabad, India",Internet,50000,Fraud
+7,100000,2016,Jun,15,14,"Hyderabad, India","Moscow, Russia",POS,10543,Fraud
+7,100000,2016,Apr,22,6,"Hyderabad, India","Hyderabad, ndia",POS,140,Normal
+8,25000,2016,Oct,23,24,"Pune, India","Pune, India",POS,15000,Normal
+8,25000,2016,Aug,28,11,"Pune, India","Mumbai, India",Internet,994,Normal
+8,25000,2016,Mar,9,22,"Pune, India","Mumbai, India",POS,800,Normal
+8,25000,2016,Dec,18,23,"Pune, India","Delhi, India",POS,50,Normal
+3,25000,2016,Feb,9,20,"Mumbai, India","Bangalore, India",POS,120,Fraud
+3,25000,2016,Feb,2,24,"Mumbai, India","Mumbai, India",POS,140,Fraud
+8,25000,2016,Mar,15,3,"Pune, India","Pune, India",Internet,1200,Fraud
+8,25000,2016,Sep,28,22,"Pune, India","Delhi, India",POS,1987,Normal
+8,25000,2016,Jun,4,8,"Pune, India","Pune, India",POS,987,Normal
+8,25000,2016,Jan,12,7,"Pune, India","Mumbai, India",POS,4000,Normal
+9,350000,2016,Oct,30,16,"Chennai, India","Bangalore, India",Internet,1200,Normal
+4,350000,2016,Mar,25,18,"Mumbai, India","mumbai, India",POS,112,Fraud
+4,350000,2016,Feb,28,11,"Mumbai, India","Mumbai, India",Internet,12000,Fraud
+9,350000,2016,Sep,16,16,"Chennai, India","Mumbai, India",POS,4509,Normal
+9,350000,2016,May,29,2,"Chennai, India","Delhi, India",Internet,4000,Normal
+9,350000,2016,Nov,4,3,"Chennai, India","Mumbai, India",POS,543,Fraud
+4,350000,2016,May,19,7,"Mumbai, India","Budapest, Hungary",POS,9875,Fraud
+4,350000,2016,Aug,1,13,"Mumbai, India","mumbai, India",Internet,12567,Fraud
+9,350000,2016,Nov,12,8,"Chennai, India","Delhi, India",POS,150000,Normal
+4,350000,2016,Dec,8,7,"Mumbai, India","Budapest, Hungary",Internet,907,Fraud
+9,350000,2016,Oct,13,1,"Chennai, India","Mumbai, India",Internet,345,Normal
+9,350000,2016,Feb,19,23,"Chennai, India","Mumbai, India",POS,5000,Normal
+4,350000,2016,Jul,17,5,"Mumbai, India","Mumbai, India",POS,75000,Fraud
+9,350000,2016,Jun,5,19,"Chennai, India","Mumbai, India",Internet,24000,Normal
+9,350000,2016,May,20,17,"Chennai, India","Mumbai, India",POS,23467,Normal
+4,350000,2016,Jul,1,21,"Mumbai, India","Mumbai, India",POS,1000,Fraud
+10,350000,2016,Jul,29,1,"Mumbai, India","Mumbai, India",Internet,10000,Normal
+4,350000,2016,Mar,8,11,"Mumbai, India","mumbai, India",Internet,45000,Fraud
+10,225000,2016,Jul,29,6,"Delhi, India","Delhi, India",POS,25000,Normal
+10,225000,2016,Oct,31,17,"Delhi, India","Delhi, India",Internet,300,Fraud
+10,225000,2016,Dec,8,4,"Delhi, India","Bangalore, India",POS,45000,Normal
+5,225000,2016,Jan,22,5,"Delhi, India","Bangalore, India",POS,670,Normal
+10,225000,2016,Jan,10,6,"Delhi, India","Delhi, India",POS,4543,Normal
+5,225000,2016,Jun,21,9,"Delhi, India","Delhi, India",Internet,11000,Fraud
+10,225000,2016,May,1,18,"Delhi, India","Delhi, India",POS,130000,Normal
+5,225000,2016,Feb,16,17,"Delhi, India","Delhi, India",Internet,132,Fraud
+10,225000,2016,Aug,24,7,"Delhi, India","Delhi, India",POS,1200,Normal
+10,225000,2016,May,17,22,"Delhi, India","Bangalore, India",Internet,1340,Normal
+10,225000,2016,Oct,11,23,"Delhi, India","Delhi, India",Internet,1356,Normal
